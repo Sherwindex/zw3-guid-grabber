@@ -2,7 +2,7 @@
 
 A simple and lightweight tool to quickly retrieve your Windows **Machine GUID** for ZW3.
 
-![Preview](images/preview.png)
+![Preview]([images/preview.png](https://repository-images.githubusercontent.com/1379023293/1ea2277e-99ea-4160-8d7c-de33bebd78e5))
 
 ### How to Use
 

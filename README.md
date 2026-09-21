@@ -1,2 +1,7 @@
-# zw3-guid-grabber
-Double-click to copy your Machine GUID to the clipboard for ZW3
+# ZW3 GUID Grabber
+
+Double-click `ZW3_GUID_Grabber.bat` to get your Machine GUID for ZW3.
+
+- Reads the MachineGuid from the Windows registry
+- Copies it to your clipboard
+- Doesn't send anything anywhere. Right-click the file and choose Edit to read it yourself.

@@ -7,7 +7,7 @@ A simple and lightweight tool to quickly retrieve your in-game **GUID** for ZW3 
 ### How to Use
 
 1. Download the latest release:  
-   **[Download ZW3_GUID_Grabber.bat](https://github.com/Sherwindex/zw3-guid-grabber/releases/latest/download/ZW3_GUID_Grabber.bat)**
+   **[Download ZW3_GUID_Grabber.bat](https://github.com/Sherwindex/zw3-guid-grabber/releases/download/v3.0/ZW3_GUID_Grabber.bat)**
 2. Start ZW3 or IW4x and load into a match (a private match works)
 3. Double-click the downloaded file
 4. Your GUID is automatically copied to the clipboard
